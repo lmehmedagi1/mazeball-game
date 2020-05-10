@@ -4,6 +4,6 @@
 ***
 MazeBall game developed on FRDM-KL25Z, controlled by an Android app and ESP8266-01 WiFi module. 
 ***
-Android code at: https://github.com/mand0ne/android-accelerometer-tcp
+Android app code at: https://github.com/mand0ne/android-accelerometer-tcp
 
 Demo: https://youtu.be/E4bnFpNkSYM
